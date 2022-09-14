@@ -2,7 +2,7 @@
 
 This is the official implementation of our ECCV 2022 paper:
 
- "What Matters for 3D Scene Flow Network"
+ "[**What Matters for 3D Scene Flow Network**](https://arxiv.org/abs/2207.09143)"
 
 Guangming Wang, Yunzhe Hu, Zhe Liu, Yiyang Zhou, Masayoshi Tomizuka, Wei Zhan, and Hesheng Wang
 
